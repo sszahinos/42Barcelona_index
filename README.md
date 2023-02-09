@@ -9,4 +9,7 @@
 <li><ul><a href="https://github.com/sszahinos/born2beroot">Born2beroot</a> - Creating a VM server using Debian <!--<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl92qrl6200060hmp7ccglubm/project/2843840" alt="sersanch's 42 Born2beroot Score" width="auto" height="20"/></a>--></ul></li>
 <h2>Level 2</h2>
 <li><ul><b>Exam Rank 02</b> - Exam about algorithms and libft functions.  <!--<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl92qrl6200060hmp7ccglubm/project/2819296" alt="sersanch's 42 Exam Rank 02 Score" width="auto" height="20"/></a>--></ul></li>
+<li><ul><a href="https://github.com/sszahinos/minitalk">ft_printf</a> - Communication between client - server.</ul></li>
+<h2>Level 3</h2>
+<li><ul><b>Exam Rank 02</b> - Replication of printf function.</ul></li>
 <h4 align="right"><a href="https://github.com/sszahinos">Back to main page</a></h4>
